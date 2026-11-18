@@ -52,6 +52,15 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=subrahmanyam-reddy&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views"/>
 
+  <br/><br/>
+
+  <!-- ======================================================= -->
+  <!-- 5. GITHUB PROFILE TROPHIES (TOKYONIGHT THEME)           -->
+  <!-- ======================================================= -->
+  <a href="https://github.com/subrahmanyam-reddy">
+    <img src="https://github-profile-trophy.vercel.app/?username=subrahmanyam-reddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Subrahmanyam Reddy's GitHub Trophies"/>
+  </a>
+
 </div>
 
 ---
@@ -104,6 +113,13 @@ My engineering work centers on breaking complex systems down to understand vulne
 ### 🛠️ Core Competencies & Skills Matrix
 
 <div align="center">
+
+  <!-- Interactive Unified SkillIcons Dock -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,aws,azure,docker,linux,mysql,mongodb,git,github,raspberrypi,arduino&theme=dark" alt="SkillIcons Dock" />
+  </a>
+
+  <br/><br/>
 
 | Technical Domain | Tools, Languages & Frameworks |
 | :--- | :--- |
